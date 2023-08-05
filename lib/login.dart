@@ -37,7 +37,7 @@ class _LoginPagesState extends State<LoginPages> {
               SizedBox(height: 20),
               // Welcome back
               Text(
-                'Welcome Back Niggerss',
+                'Welcome Back ',
                 style: TextStyle(
                   color: Colors.grey[700],
                   fontSize: 16,
